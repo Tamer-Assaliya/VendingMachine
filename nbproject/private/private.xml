@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/SnackKeyPad.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/states/ReadyState.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/states/VMState.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/MoneySlots/NotesSlot.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/MoneySlots/CardSlot.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/SnackVendingMachine.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/states/ItemSelectedState.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/money/Card.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/MoneySlots/CoinsSlot.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/money/Money.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/contracts/KeyPad.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/MoneySlots/MoneySlot.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/inventory/VMSlot.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/contracts/VendingMachine.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/states/MoneyInsertedState.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/inventory/SnackSlot.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/MainVM.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/VendingMachineFactory.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/money/Coins.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/states/DispenseState.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/inventory/Item.java</file>
+            <file>file:/Users/tamer/NetBeansProjects/SnackVendingMachine/src/vendingMachine/money/Notes.java</file>
+        </group>
+    </open-files>
+</project-private>
